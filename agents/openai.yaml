@@ -1,0 +1,4 @@
+interface:
+  display_name: "黄白 Video Editor"
+  short_description: "把确认过的口播和配画装进剪映，做分轨剪辑、字幕、蒙版、花字和导出复检。"
+  default_prompt: "用 $huangbai-video-editor 在现有剪映工程中完成这轮剪辑，保留独立轨道并复查实际导出。"
